@@ -3,14 +3,13 @@ name: Generate GitHub Contribution Snake
 on:
   schedule:
     - cron: "0 0 * * *"  # 매일 자정(UTC) 실행
-  workflow_dispatch:      # 수동 실행도 가능하게 설정
+  workflow_dispatch:     # 수동 실행도 가능
 
 jobs:
-  generate-snake:
+  generate:
     runs-on: ubuntu-latest
-
     steps:
-      - name: Checkout repository
+      - name: Checkout repo
         uses: actions/checkout@v2
 
       - name: Generate snake SVG
