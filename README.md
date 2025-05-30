@@ -55,7 +55,7 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=round-square&logo=github&logoColor=white"/> <br>
 </p>
       
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=azureun&layout=compact&title_color=000000&text_color=000000&bg_color=FFFFFF&border_color=B2CCFF" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=azureun&layout=compact&title_color=B2CCFF&text_color=000000&bg_color=FFFFFF&border_color=B2CCFF" />
 
 <h3 align>
   <span style="color:#007FFF">
