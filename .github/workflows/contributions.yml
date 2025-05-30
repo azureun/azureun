@@ -2,24 +2,28 @@ name: Generate GitHub Contribution Snake
 
 on:
   schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
+    - cron: "0 0 * * *"  # 매일 자정(UTC) 실행
+  workflow_dispatch:      # 수동 실행도 가능하게 설정
 
 jobs:
-  generate:
+  generate-snake:
     runs-on: ubuntu-latest
+
     steps:
-      - name: Generate snake.svg
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Generate snake SVG
         uses: Platane/snk@v3
         with:
           github_user_name: azureun
           outputs: |
             dist/github-contribution-grid-snake.svg
 
-      - name: Commit & Push
+      - name: Commit & Push SVG
         uses: EndBug/add-and-commit@v9
         with:
           author_name: github-actions
           author_email: github-actions@github.com
-          message: "generate contribution grid snake"
-          add: "dist/*.svg"
+          message: "chore: update contribution snake SVG"
+          add: "dist/github-contribution-grid-snake.svg"
