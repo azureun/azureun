@@ -48,7 +48,7 @@
   <img src="https://img.shields.io/badge/Notion-000000?style=round-square&logo=notion&logoColor=white"/>
   <img src="https://img.shields.io/badge/Canva-00C4CC?style=round-square&logo=canva&logoColor=white"/>
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=round-square&logo=figma&logoColor=white"/> <br>
-  <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=round-square&logo=visual-studio&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VSCode-007ACC?style=round-square&logo=visual-studio-code&logoColor=white"/>
   <img src="https://img.shields.io/badge/Eclipse-2C2255?style=round-square&logo=eclipse&logoColor=white"/>
   <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=round-square&logo=intellij-idea&logoColor=white"/> <br>
   <img src="https://img.shields.io/badge/Git-F05032?style=round-square&logo=git&logoColor=white"/>
