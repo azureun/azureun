@@ -63,7 +63,7 @@
   </span>
 </h3>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=azureun&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Custom GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=azureun&theme=github-compact&color=B2CCFF&line=B2CCFF&point=ebedf0&area=true&area_color=ffffff&bg_color=001f4d)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 
 <table align="center">
   <tr>
