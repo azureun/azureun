@@ -13,8 +13,11 @@
 
 <p>
   <img src="https://img.shields.io/badge/React-61DAFB?style=round-square&logo=React&logoColor=black"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=round-square&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=round-square&logo=typescript&logoColor=white"/> <br>
+  
   <img src="https://img.shields.io/badge/Python-3776AB?style=round-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=round-square&logo=java&logoColor=white"/> <br>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=round-square&logo=linux&logoColor=black"/>
 </p>
 
 ### 🫧 Tools
@@ -31,16 +34,20 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=azureun&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<p align="center">
-  <a href="https://github.com/azureun/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=azureun" />
-  </a>
-  <span style="margin: 0 10px;"></span>
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com/?user=azureun" />
-  </a>
-</p>
-
+<table align="center">
+  <tr>
+    <td>
+      <a href="https://github.com/azureun/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api?username=azureun&show_icons=true&theme=default" />
+      </a>
+    </td>
+    <td>
+      <a href="https://git.io/streak-stats">
+        <img src="https://streak-stats.demolab.com/?user=azureun&theme=default" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 <!-- 하단 배너 이미지 -->
 <p align="center">
