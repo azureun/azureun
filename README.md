@@ -9,7 +9,22 @@
   </span>
 </h1>
 
-### 🖥️ Tech Stacks
+<h3>
+  <span style="color:#007FFF">
+    🫧 𝑨𝒃𝒐𝒖𝒕 𝒎𝒆
+  </span>
+</h3>
+
+- Bachelor's degree candidate in Computer Science, Chosun Univ.
+- I aspire to become a **Full-Stack** / **Front-end** / **Interactive** Developer.
+> Currently
+- Building a community website with university friends (Role: Front-End Developer)
+
+<h3>
+  <span style="color:#007FFF">
+    💻 𝑻𝒆𝒄𝒉 𝑺𝒕𝒂𝒄𝒌𝒔
+  </span>
+</h3>
 
 <p>
   <img src="https://img.shields.io/badge/React-61DAFB?style=round-square&logo=React&logoColor=black"/>
@@ -20,7 +35,13 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?style=round-square&logo=linux&logoColor=black"/>
 </p>
 
-### 🫧 Tools
+
+<h3>
+  <span style="color:#007FFF">
+    🧰 𝑻𝒐𝒐𝒍𝒔
+  </span>
+</h3>
+
 <p>
   <img src="https://img.shields.io/badge/Notion-000000?style=round-square&logo=notion&logoColor=white"/>
   <img src="https://img.shields.io/badge/Canva-00C4CC?style=round-square&logo=canva&logoColor=white"/>
@@ -29,8 +50,11 @@
       
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=azureun&layout=compact&title_color=000000&text_color=000000&bg_color=FFFFFF&border_color=B2CCFF" />
 
-
-### 📈 Contribution Graph
+<h3 align>
+  <span style="color:#007FFF">
+    📈 𝑪𝒐𝒏𝒕𝒓𝒊𝒃𝒖𝒕𝒊𝒐𝒏 𝑮𝒓𝒂𝒑𝒉
+  </span>
+</h3>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=azureun&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
