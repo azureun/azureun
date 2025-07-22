@@ -22,7 +22,6 @@
   - 6월 23일 이후, 웹 사이트 배포함.
   - [Wantit-Nest](https://wantitnest.co.kr/)
   - 추후 : 리팩토링, 유지 보수 및 기능 추가(실사용 편하게 만들 예정)
-- 정보처리기사 실기 준비중..✍️
 
 <h3>
   <span style="color:#007FFF">
