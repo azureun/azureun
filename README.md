@@ -19,9 +19,8 @@
 - I aspire to become a **Full-Stack Developer** / **Cloud Engineer**.
 > Currently
 - Capston : IT 전공자의 커리어 성장을 위한 커뮤니티 웹사이트 'WantIT-Nest' 친구들과 함께 구축함. (Role: Front-End Developer)
-  - 6월 23일 이후, 웹 사이트 배포함.
   - [Wantit-Nest](https://wantitnest.co.kr/)
-  - 리팩토링, 유지 보수 및 기능 추가 중
+  - 2025.11.28(금) 교내 IT Festival 캡스톤 디자인 공모전 '동상' 수상
 
 <h3>
   <span style="color:#007FFF">
