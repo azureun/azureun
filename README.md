@@ -1,4 +1,4 @@
-<!-- 상단 배너 이미지 -->
+<!-- 상단 배너 이미지 -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=B2CCFF&height=100&section=header" width="100%"/>
 </p>
@@ -15,12 +15,10 @@
   </span>
 </h3>
 
-- Bachelor's degree candidate in Computer Science, Chosun Univ.
-- I aspire to become a **Full-Stack Developer** / **Cloud Engineer**.
 > Currently
-- Capston : IT 전공자의 커리어 성장을 위한 커뮤니티 웹사이트 'WantIT-Nest' 친구들과 함께 구축함. (Role: Front-End Developer)
-  - [Wantit-Nest](https://wantitnest.co.kr/)
-  - 2025.11.28(금) 교내 IT Festival 캡스톤 디자인 공모전 '동상' 수상
+- Working at BRICKSUM Inc., which builds and operates AI infrastructure. (26.02.02 ~)
+- My role is Manager / FDE(Forward Deployed Engineer)
+- My job is to develop heterogeneous (NPU, GPU, etc.) cluster management solution. (BE, FE)
 
 <h3>
   <span style="color:#007FFF">
@@ -28,16 +26,40 @@
   </span>
 </h3>
 
-<p>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=round-square&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/React-61DAFB?style=round-square&logo=React&logoColor=black"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=round-square&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=round-square&logo=tailwindcss&logoColor=white"/> <br>
-   
-  <img src="https://img.shields.io/badge/Java-007396?style=round-square&logo=java&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=round-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Linux-FCC624?style=round-square&logo=linux&logoColor=black"/> <br>
-
-  <span style="color:#0DEB6C">
-    NCA
-  </span>
+<!-- Languages -->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,ts,java,mysql" />
+  </a>
 </p>
 
+<!-- Frameworks & Libraries -->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,nextjs,vue" />
+  </a>
+</p>
+
+<!-- Infra / Cloud -->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=kubernetes,docker" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=aws,azure" />
+  </a>
+  &nbsp;
+  <img src="https://img.shields.io/badge/NaverCloud-03C75A?style=round-square&logo=naver&logoColor=white"/>
+</p>
+
+<!-- DevOps -->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,linux,vim" />
+  </a>
+</p>
 
 <h3>
   <span style="color:#007FFF">
@@ -45,15 +67,10 @@
   </span>
 </h3>
 
-<p>
-  <img src="https://img.shields.io/badge/Notion-000000?style=round-square&logo=notion&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Canva-00C4CC?style=round-square&logo=canva&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=round-square&logo=figma&logoColor=white"/> <br>
-  <img src="https://img.shields.io/badge/VSCode-007ACC?style=round-square&logo=visual-studio-code&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Eclipse-2C2255?style=round-square&logo=eclipse&logoColor=white"/>
-  <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=round-square&logo=intellij-idea&logoColor=white"/> <br>
-  <img src="https://img.shields.io/badge/Git-F05032?style=round-square&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=round-square&logo=github&logoColor=white"/> <br>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vscode,idea,figma,notion,obsidian" />
+  </a>
 </p>
       
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=azureun&layout=compact&title_color=B2CCFF&text_color=000000&bg_color=FFFFFF&border_color=B2CCFF" />
@@ -81,7 +98,7 @@
   </tr>
 </table>
 
-<!-- 하단 배너 이미지 -->
+<!-- 하단 배너 이미지 -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=B2CCFF&height=100&section=footer" width="100%"/>
 </p>
