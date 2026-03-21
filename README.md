@@ -36,7 +36,7 @@
 <!-- Frameworks & Libraries -->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,vue" />
+    <img src="https://skillicons.dev/icons?i=react,nextjs,vue,fastapi" />
   </a>
 </p>
 
