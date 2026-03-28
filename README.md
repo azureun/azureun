@@ -17,12 +17,21 @@
 
 > Currently
 - Working at BRICKSUM Inc., which builds and operates AI infrastructure. (26.02.02 ~)
-- My role is Manager / FDE(Forward Deployed Engineer)
+- My role is Manager, team.dev / FDE(Forward Deployed Engineer)
 - My job is to develop heterogeneous (NPU, GPU, etc.) cluster management solution. (BE, FE)
 
 <h3>
   <span style="color:#007FFF">
-    💻 𝑻𝒆𝒄𝒉 𝑺𝒕𝒂𝒄𝒌𝒔
+    🏅 𝑪𝒆𝒓𝒕𝒊𝒇𝒊𝒄𝒂𝒕𝒊𝒐𝒏𝒔
+  </span>
+</h3>
+
+- 🖥️ Engineer Information Processing (정보처리기사)
+- ☁️ NCA (Naver Cloud Associate)
+
+<h3>
+  <span style="color:#007FFF">
+    🛠️ 𝑻𝒆𝒄𝒉 𝑺𝒕𝒂𝒄𝒌𝒔
   </span>
 </h3>
 
@@ -69,11 +78,9 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,idea,figma,notion,obsidian" />
+    <img src="https://skillicons.dev/icons?i=vscode,idea,eclipse,figma,notion,obsidian" />
   </a>
 </p>
-      
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=azureun&layout=compact&title_color=B2CCFF&text_color=000000&bg_color=FFFFFF&border_color=B2CCFF" />
 
 <h3 align>
   <span style="color:#007FFF">
@@ -86,15 +93,16 @@
 <table align="center">
   <tr>
     <td>
-      <a href="https://github.com/azureun/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api?username=azureun&show_icons=true&theme=default" />
-      </a>
+      <img src="https://github-readme-stats-five-eta-42.vercel.app/api?username=azureun&show_icons=true&title_color=007FFF&icon_color=007FFF&text_color=000000&bg_color=ffffff&border_color=007FFF" />
     </td>
     <td>
       <a href="https://git.io/streak-stats">
         <img src="https://streak-stats.demolab.com/?user=azureun&theme=default" />
       </a>
     </td>
+    <td>
+    <img src="https://github-readme-stats-five-eta-42.vercel.app/api/top-langs/?username=azureun&layout=compact&title_color=007FFF&text_color=000000&bg_color=FFFFFF&border_color=007FFF"/>
+</td>
   </tr>
 </table>
 
