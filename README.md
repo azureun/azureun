@@ -17,7 +17,7 @@
 
 > Currently
 - Working at BRICKSUM Inc., which builds and operates AI infrastructure. (26.02.02 ~)
-- My role is Manager, team.dev / FDE(Forward Deployed Engineer)
+- My role is Associate, team.dev / AI Infra Engineer
 - My job is to develop heterogeneous (NPU, GPU, etc.) cluster management solution. (BE, FE)
 
 <h3>
@@ -38,7 +38,7 @@
 <!-- Languages -->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,ts,java,mysql" />
+    <img src="https://skillicons.dev/icons?i=python,ts,java,mysql,postgresql" />
   </a>
 </p>
 
