@@ -15,11 +15,6 @@
   </span>
 </h3>
 
-> Currently
-- Working at BRICKSUM Inc., which builds and operates AI infrastructure. (26.02.02 ~)
-- My role is Associate, team.dev / AI Infra Engineer
-- My job is to develop heterogeneous (NPU, GPU, etc.) cluster management solution. (BE, FE)
-
 <h3>
   <span style="color:#007FFF">
     🏅 𝑪𝒆𝒓𝒕𝒊𝒇𝒊𝒄𝒂𝒕𝒊𝒐𝒏𝒔
