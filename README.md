@@ -23,6 +23,7 @@
 
 - 🖥️ Engineer Information Processing (정보처리기사)
 - ☁️ NCA (Naver Cloud Associate)
+- 네트워크 관리사 2급
 
 <h3>
   <span style="color:#007FFF">
